@@ -1,16 +1,13 @@
 html {
 }
 
-div {
-  display: inline-block;
-}
-
 header {
   border: 2px solid black;
   display: inline-block;
 }
 
 .Game {
+  display: inline-block;
   height: 100px;
   width: 70px;
 }

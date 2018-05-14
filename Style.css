@@ -1,6 +1,10 @@
 html {
 }
 
+div {
+  display: inline-block;
+}
+
 header {
   display: inline-block;
 }

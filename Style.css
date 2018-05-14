@@ -9,6 +9,11 @@ header {
   display: inline-block;
 }
 
+.Game {
+  height: 100px;
+  width: 70px;
+}
+
 .logo {
   float: left;
   height: 50px;

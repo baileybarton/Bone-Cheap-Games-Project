@@ -27,6 +27,7 @@ nav {
 table {
   border: 1px solid black;
   text-align: center;
+  width: 100%;
 }
 
 th, tr, td {

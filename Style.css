@@ -55,6 +55,7 @@ th {
 
 .Logo {
   border: 1px dotted black;
+  display: inline-block;
   height: 60px;
   width: 60px;
 }

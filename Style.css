@@ -43,6 +43,10 @@ th, tr, td {
   text-align: center;
 }
 
+th {
+  font-size: 15px;
+}
+
 .Game {
   display: inline-block;
   height: 100px;

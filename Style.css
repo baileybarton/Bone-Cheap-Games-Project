@@ -2,7 +2,12 @@ html {
   background-image: url("Bone Cheap Games Pics/Bone RibCage.gif");
 }
 
+body {
+  background-color: white;
+}
+
 header {
+  background-color: white;
   border-bottom: 2px solid black;
   margin: 10px auto;
   padding: 10px

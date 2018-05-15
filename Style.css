@@ -4,6 +4,8 @@ html {
 header {
   border-bottom: 2px solid black;
   margin: 0 auto;
+  height: 50px;
+  width: 50px;
 }
 
 nav {
@@ -18,6 +20,4 @@ nav {
 
 .Logo {
   float: left;
-  height: 50px;
-  width: 50px;
 }

@@ -4,12 +4,11 @@ html {
 
 body {
   background-color: white;
-  margin: 10px;
 }
 
 div {
   display: inline-block;
-  text-align: center;
+  margin: 10px;
 }
 
 header {

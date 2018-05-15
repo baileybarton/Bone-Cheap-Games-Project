@@ -25,6 +25,11 @@ table {
   text-align: center;
 }
 
+th, tr, td {
+  border: 1px solid black;
+  text-align: center;
+}
+
 .Game {
   display: inline-block;
   height: 100px;

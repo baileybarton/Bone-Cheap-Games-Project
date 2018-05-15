@@ -26,7 +26,8 @@ nav {
 }
 
 nav .slogan {
-  float: right;
+  position: relative;
+  left: 50px;
 }
 
 table {

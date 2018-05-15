@@ -3,7 +3,6 @@ html {
 }
 
 body {
-  background-color: white;
   margin-bottom: 15px;
   margin-left: 20px;
   margin-right: 20px;
@@ -31,6 +30,7 @@ nav .slogan {
 }
 
 table {
+  background-color: white;
   border: 1px solid black;
   margin: 0 auto;
   text-align: center;

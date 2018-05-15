@@ -19,6 +19,7 @@ header {
 nav {
   display: inline-block;
   font-size: 20px;
+  font-weight: 400;
 }
 
 table {

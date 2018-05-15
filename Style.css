@@ -1,11 +1,11 @@
 html {
+  background-image: url("
 }
 
 header {
   border-bottom: 2px solid black;
   margin: 10px auto;
-  height: 50px;
-  width: 50px;
+  padding: 10px
 }
 
 nav {
@@ -19,5 +19,6 @@ nav {
 }
 
 .Logo {
-  float: left;
+  height: 50px;
+  width: 50px;
 }

@@ -37,6 +37,7 @@ th, tr, td {
 }
 
 .Logo {
+  border: 1px solid black;
   height: 50px;
   width: 50px;
 }

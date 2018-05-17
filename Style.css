@@ -23,19 +23,16 @@ header {
   padding: 10px
 }
 
-nav {
-  font-size: 20px;
-  font-weight: 400;
-}
-
 nav a {
   clear: left;
   display: block;
+  font-size: 20px;
 }
 
 nav .slogan {
+  font-size: 30px;
   position: relative;
-  left: 400px;
+  left: 500px;
 }
 
 .cart {

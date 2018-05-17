@@ -30,8 +30,11 @@ header {
   padding: 10px
 }
 
-nav {
+.name {
   display: inline-block;
+}
+
+nav {
   font-size: 20px;
   font-weight: 400;
 }

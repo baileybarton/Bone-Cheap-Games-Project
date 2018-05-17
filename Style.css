@@ -9,7 +9,18 @@ body {
   margin-top: 10px;
 }
 
-div {
+.Game {
+  display: inline-block;
+  height: 100px;
+  width: 70px;
+}
+
+/* Header */
+.Logo {
+  border: 1px dotted black;
+  display: inline-block;
+  height: 60px;
+  width: 60px;
 }
 
 header {
@@ -30,6 +41,7 @@ nav .slogan {
   left: 400px;
 }
 
+/* Table */
 table {
   background-color: white;
   border: 1px solid black;
@@ -45,17 +57,4 @@ th, tr, td {
 
 th {
   font-size: 15px;
-}
-
-.Game {
-  display: inline-block;
-  height: 100px;
-  width: 70px;
-}
-
-.Logo {
-  border: 1px dotted black;
-  display: inline-block;
-  height: 60px;
-  width: 60px;
 }

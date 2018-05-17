@@ -29,6 +29,7 @@ nav {
 }
 
 nav a {
+  clear: left;
   display: block;
 }
 

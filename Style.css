@@ -28,6 +28,10 @@ nav {
   font-weight: 400;
 }
 
+nav a {
+  display: block;
+}
+
 nav .slogan {
   position: relative;
   left: 400px;

@@ -50,6 +50,11 @@ table {
   width: 100%;
 }
 
+td {
+  font-size: 20px;
+  font-weight: 200;
+}
+
 th, tr, td {
   border: 1px solid black;
   text-align: center;
